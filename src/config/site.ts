@@ -28,6 +28,6 @@ export const siteConfig: SiteConfig = {
   supportEmail: "support@realistichomedefense.top",
   gameUrl: "https://www.roblox.com/games/105527962898452/REALISTIC-HOME-DEFENSE",
   heroVideoId: "",
-  locales: ["en", "es", "pt", "de", "fr"],
+  locales: ["en", "es", "pt", "de"],
   defaultLocale: "en",
 };
