@@ -237,40 +237,20 @@ export interface NavGroup {
 
 // 分组标题映射：slug → 人类可读标题（默认英文）
 const GROUP_TITLES: Record<string, string> = {
-  bosses: "Bosses",
-  races: "Races",
-  maps: "Maps & Areas",
-  skills: "Skills",
-  codes: "Codes",
   guide: "Getting Started",
-  "tier-list": "Tier Lists",
-};
-
-// 日文分组标题映射
-const GROUP_TITLES_JA: Record<string, string> = {
-  bosses: "ボス",
-  races: "種族",
-  maps: "マップ & エリア",
-  skills: "スキル",
-  codes: "コード",
-  guide: "初心者ガイド",
-  "tier-list": "Tier List",
+  controls: "Controls",
+  mechanics: "Mechanics",
+  codes: "Codes",
 };
 
 // locale → 分组标题映射
-const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {
-  ja: GROUP_TITLES_JA,
-};
+const GROUP_TITLES_BY_LOCALE: Record<string, Record<string, string>> = {};
 
 // locale → "Overview" 翻译
-const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {
-  ja: "一覧",
-};
+const OVERVIEW_LABEL_BY_LOCALE: Record<string, string> = {};
 
 // 分组排序顺序
-const GROUP_ORDER: string[] = [
-  "guide", "races", "bosses", "maps", "skills", "codes", "tier-list",
-];
+const GROUP_ORDER: string[] = ["guide", "controls", "mechanics", "codes"];
 
 /**
  * 动态生成 Wiki Navigation 分组

@@ -9,7 +9,11 @@
   "nav": {
     "home": "Home",
     "menu": "Menu",
-    "toggleTheme": "Toggle theme"
+    "toggleTheme": "Toggle theme",
+    "guide": "Guide",
+    "controls": "Controls",
+    "mechanics": "Mechanics",
+    "codes": "Codes"
   },
   "home": {
     "meta": {
@@ -387,7 +391,22 @@
       "secondary": "Play on Roblox"
     }
   },
-  "bosses": {},
+  "guide": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Beginner Guides",
+    "overviewDescription": "Start with REALISTIC HOME DEFENSE controls, movement basics, and practical first steps for Roblox home-defense rounds."
+  },
+  "controls": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Controls",
+    "overviewDescription": "Find every listed PC, console, and mobile input for aiming, firing, reloading, movement, and weapon handling."
+  },
+  "mechanics": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Mechanics",
+    "overviewDescription": "Learn the confirmed money multipliers, friend and group bonuses, and core gameplay systems documented for REALISTIC HOME DEFENSE."
+  },
+  "codes": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Codes",
+    "overviewDescription": "Check the current REALISTIC HOME DEFENSE code status, where to watch for announcements, and confirmed bonus-cash options."
+  },
   "shared": {
     "wikiNavigation": "Wiki Navigation",
     "activeCodes": "Active Codes",
@@ -418,9 +437,9 @@
     "officialYoutube": "Official YouTube (link pending verification)",
     "vvBuilder": "Weapons & Controls Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Weapon & Equipment Guides",
-    "bossGuides": "Map & Defense Guides",
-    "buildGuide": "Tier List & Loadouts",
+    "raceGuides": "Controls & Movement",
+    "bossGuides": "Money & Multipliers",
+    "buildGuide": "Codes & Rewards",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }
