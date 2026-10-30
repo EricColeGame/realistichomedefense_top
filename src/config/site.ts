@@ -6,7 +6,7 @@ export interface SiteConfig {
   description: string;
   url: string;
   supportEmail: string;
-  gameUrl?: string;
+  gameUrl: string;
   heroVideoId?: string;
   social?: {
     discord?: string;
@@ -23,11 +23,11 @@ export const siteConfig: SiteConfig = {
   shortName: "REALISTIC HOME DEFENSE",
   logoText: "R",
   tagline: "Controls, Weapons & Tactical Defense Guides",
-  description: "Fan-made REALISTIC HOME DEFENSE wiki covering Roblox controls, weapons, equipment, money tips, and room-by-room tactical defense strategies.",
+  description: "Find REALISTIC HOME DEFENSE controls, weapon tips, tactical strategies, and Roblox gameplay guides to improve your aim, survive rounds, and win more matches.",
   url: process.env.NEXT_PUBLIC_SITE_URL || "https://realistichomedefense.top",
-  supportEmail: `support@${new URL(process.env.NEXT_PUBLIC_SITE_URL || "https://realistichomedefense.top").hostname.replace(/^www\./, "")}`,
+  supportEmail: "support@realistichomedefense.top",
   gameUrl: "https://www.roblox.com/games/105527962898452/REALISTIC-HOME-DEFENSE",
-  heroVideoId: "fIo9MZRzr5E",
+  heroVideoId: "",
   locales: ["en", "es", "pt", "de", "fr"],
   defaultLocale: "en",
 };

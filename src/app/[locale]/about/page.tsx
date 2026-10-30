@@ -3,8 +3,8 @@ import { LegalPage } from "@/components/legal-page";
 export default function AboutPage() {
   return (
     <LegalPage title="About">
-      <p>VV Ultimatum Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.</p>
-      <p>The layout, navigation, article cards, and detail format are reproduced from the target VV: ULTIMATUM wiki pages requested for this implementation.</p>
+      <p>REALISTIC HOME DEFENSE Wiki at realistichomedefense.top is an independent fan-built guide hub covering Roblox controls, realistic weapons, equipment, tactical movement, money tips, and room-by-room home-defense strategies.</p>
+      <p>Our guides are designed to help new and experienced players improve their aim, coordinate with teammates, and survive every round. We are not affiliated with IBA Community or Roblox.</p>
     </LegalPage>
   );
 }

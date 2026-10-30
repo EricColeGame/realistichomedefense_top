@@ -1,10 +1,10 @@
 {
   "site": {
-    "name": "My Seafood Stand Wiki",
-    "shortName": "My Seafood Stand",
-    "tagline": "Complete Guides, Codes, Recipes & Tier Lists",
-    "description": "Your ultimate guide to My Seafood Stand on Roblox! Explore active codes, seafood recipes, best upgrades, profit strategies, and progression guides.",
-    "legalNotice": "Non-official fan wiki. Made by players, for players."
+    "name": "REALISTIC HOME DEFENSE Wiki",
+    "shortName": "REALISTIC HOME DEFENSE",
+    "tagline": "Roblox Controls, Weapons & Tactical Defense Guides",
+    "description": "Fan-made REALISTIC HOME DEFENSE wiki covering Roblox controls, realistic weapon mechanics, tactical movement, equipment, money tips, and room-by-room defense strategies.",
+    "legalNotice": "Non-official fan wiki. Not affiliated with IBA Community or Roblox."
   },
   "nav": {
     "races": "Races",
@@ -30,19 +30,19 @@
       "description": "Complete My Seafood Stand guide on Roblox with active working codes, all fish & recipes, best upgrades tier list, and fast cash tips."
     },
     "hero": {
-      "eyebrow": "Fan-Made Community Wiki",
-      "title": "My Seafood Stand",
-      "description": "Master your restaurant in My Seafood Stand on Roblox. Access all active codes, complete fish & recipe catalog, optimal upgrades, and pro money-making strategies.",
+      "eyebrow": "Roblox Tactical FPS Guide",
+      "title": "REALISTIC HOME DEFENSE Wiki",
+      "description": "Explore REALISTIC HOME DEFENSE with practical weapon tips, PC and console controls, aiming strategies, movement techniques, and tactical guides to help you defend every room and win more rounds.",
       "stats": [
-        "All Codes",
-        "All Fish & Recipes",
-        "Upgrade Guides",
-        "Fast Cash Tips"
+        "1.1M+ Total Visits",
+        "3.7K+ Players Online",
+        "16 Max Players per Server",
+        "Oct 24, 2026 Last Updated"
       ],
       "primaryCta": "Beginner Guide",
-      "secondaryCta": "Seafood Tier List",
-      "tertiaryCta": "Active Codes",
-      "videoLabel": "Official media"
+      "secondaryCta": "Weapons & Controls",
+      "tertiaryCta": "Play on Roblox",
+      "videoLabel": "Gameplay video"
     },
     "updates": {
       "title": "Latest Updates",
@@ -342,8 +342,8 @@
       ]
     },
     "finalCta": {
-      "title": "Ready to Master My Seafood Stand?",
-      "description": "From your first steps in Fort Adams to endgame boss fights our community wiki has you covered with free, up-to-date guides.",
+      "title": "Ready to Defend Your Home?",
+      "description": "Master realistic weapons, tactical movement, and room-by-room defense with practical Roblox guides built for every round.",
       "primary": "Read the Beginner Guide",
       "secondary": "Play on Roblox"
     }
@@ -379,21 +379,21 @@
     "noGuidesAvailable": "No guides available yet. Check back soon!"
   },
   "footer": {
-    "aboutTitle": "My Seafood Stand Wiki",
-    "about": "My Seafood Stand Wiki is an independent fan-built guide hub covering progression routes, races, bosses, builds, and essential game knowledge for new and veteran players alike.",
+    "aboutTitle": "REALISTIC HOME DEFENSE Wiki",
+    "about": "REALISTIC HOME DEFENSE Wiki is an independent fan-built guide hub covering Roblox controls, weapons, equipment, tactical movement, money tips, and room-by-room home-defense strategies.",
     "quickLinks": "Quick Links",
     "guides": "Guides",
     "legal": "Legal",
-    "copyright": "2026 My Seafood Stand Wiki. Not affiliated with Midnight Continent or Roblox.",
-    "description": "Free Bleach-inspired fighting RPG on Roblox. 3 races, 130+ skills, Lv100 cap.",
-    "playGame": "Play My Seafood Stand",
-    "officialDiscord": "Official Discord",
-    "officialYoutube": "Official YouTube",
-    "vvBuilder": "VV Builder (Skill Planner)",
+    "copyright": "2026 REALISTIC HOME DEFENSE Wiki. Not affiliated with IBA Community or Roblox.",
+    "description": "A Roblox tactical FPS focused on realistic weapons, tactical movement, and home-defense firefights.",
+    "playGame": "Play REALISTIC HOME DEFENSE on Roblox",
+    "officialDiscord": "Official Discord (link pending verification)",
+    "officialYoutube": "Official YouTube (link pending verification)",
+    "vvBuilder": "Weapons & Controls Guide",
     "beginnerGuide": "Beginner Guide",
-    "raceGuides": "Race Guides",
-    "bossGuides": "Boss Guides",
-    "buildGuide": "Build Guide",
+    "raceGuides": "Weapon & Equipment Guides",
+    "bossGuides": "Map & Defense Guides",
+    "buildGuide": "Tier List & Loadouts",
     "privacyPolicy": "Privacy Policy",
     "termsOfService": "Terms of Service"
   }

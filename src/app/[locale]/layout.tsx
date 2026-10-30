@@ -25,11 +25,13 @@ export async function generateMetadata({ params }: { params: Promise<{ locale: s
   return {
     metadataBase: new URL(siteUrl),
     title: { default: "REALISTIC HOME DEFENSE Wiki", template: "%s" },
-    description: "Find REALISTIC HOME DEFENSE controls, weapon tips, tactical strategies, team roles, and Roblox gameplay guides to improve your aim, survive rounds, and win more matches.",
+    applicationName: siteConfig.name,
+    description: siteConfig.description,
+    keywords: ["REALISTIC HOME DEFENSE", "Roblox", "FPS", "tactical shooter", "controls", "weapons", "gameplay guide"],
     manifest: "/manifest.json",
     icons: { icon: [{ url: "/favicon.ico" }, { url: "/favicon-32x32.png", sizes: "32x32", type: "image/png" }], apple: "/apple-touch-icon.png" },
-    openGraph: { type: "website", locale, url: siteUrl, siteName: siteConfig.name, images: [{ url: image }] },
-    twitter: { card: "summary_large_image", images: [image] },
+    openGraph: { type: "website", locale, url: `${siteUrl}/${locale}`, siteName: siteConfig.name, title: "REALISTIC HOME DEFENSE Wiki", description: siteConfig.description, images: [{ url: image, width: 768, height: 432, alt: "REALISTIC HOME DEFENSE Roblox game artwork" }] },
+    twitter: { card: "summary_large_image", title: "REALISTIC HOME DEFENSE Wiki", description: siteConfig.description, images: [image] },
     ...(adsenseId ? { other: { "google-adsense-account": adsenseId } } : {}),
   };
 }
@@ -44,8 +46,9 @@ export default async function LocaleLayout({ children, params }: { children: Rea
     "@type": "Organization",
     name: siteConfig.name,
     url: siteUrl,
-    logo: `${siteUrl}/android-chrome-512x512.png`,
-    image: `${siteUrl}/images/hero.webp`,
+    "logo": `${siteUrl}/android-chrome-512x512.png`,
+    "image": `${siteUrl}/images/hero.webp`,
+    sameAs: siteConfig.gameUrl ? [siteConfig.gameUrl] : [],
   };
 
   const adsenseId = process.env.NEXT_PUBLIC_GOOGLE_ADSENSE_ID;
