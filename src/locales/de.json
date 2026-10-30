@@ -1,1 +1,446 @@
-{}
+{
+  "site": {
+    "name": "REALISTIC HOME DEFENSE Wiki",
+    "shortName": "REALISTIC HOME DEFENSE",
+    "tagline": "Roblox-Steuerung, Waffen- und taktische Verteidigungsleitfäden",
+    "description": "Von Fans erstelltes REALISTIC HOME DEFENSE Wiki mit Roblox-Steuerung, realistischen Waffenmechaniken, taktischer Bewegung, Ausrüstung, Geldtipps und Raum-für-Raum-Verteidigungsstrategien.",
+    "legalNotice": "Inoffizielles Fan-Wiki. Nicht mit IBA Community oder Roblox verbunden."
+  },
+  "nav": {
+    "home": "Startseite",
+    "menu": "Menü",
+    "toggleTheme": "Design wechseln",
+    "guide": "Leitfaden",
+    "controls": "Steuerung",
+    "mechanics": "Mechaniken",
+    "codes": "Codes"
+  },
+  "home": {
+    "meta": {
+      "title": "REALISTIC HOME DEFENSE Wiki — Steuerung, Waffen, Geld und Taktikleitfäden",
+      "description": "REALISTIC HOME DEFENSE Leitfaden zu PC- und Konsolensteuerung, Waffenhandhabung, Geldmultiplikatoren, Ausrüstung, Mobil-Schaltflächen und Tipps zur Hausverteidigung in Roblox."
+    },
+    "hero": {
+      "eyebrow": "Taktischer Roblox-FPS-Leitfaden",
+      "title": "REALISTIC HOME DEFENSE Wiki",
+      "description": "Erkunde REALISTIC HOME DEFENSE mit praktischen Waffentipps, PC- und Konsolensteuerung, Zielstrategien, Bewegungstechniken und Taktikleitfäden, die dir helfen, jeden Raum zu verteidigen und mehr Runden zu gewinnen.",
+      "stats": [
+        "1.1M+ Besuche insgesamt",
+        "3.7K+ Spieler online",
+        "16 maximale Spieler pro Server",
+        "Zuletzt aktualisiert: 24. Okt. 2026"
+      ],
+      "primaryCta": "Anfängerleitfaden",
+      "secondaryCta": "Waffen und Steuerung",
+      "tertiaryCta": "Auf Roblox spielen",
+      "videoLabel": "Gameplay-Video"
+    },
+    "updates": {
+      "title": "Neueste Updates",
+      "browse": "Alle Leitfäden durchsuchen",
+      "viewAll": "Alle anzeigen"
+    },
+    "start": {
+      "eyebrow": "Hier starten",
+      "title": "Deine Reise durch REALISTIC HOME DEFENSE",
+      "cards": [
+        {
+          "number": "1",
+          "title": "Anfängerleitfaden",
+          "description": "Lerne zuerst die PC-, Konsolen- und Mobilsteuerung und übe dann Zielen, Nachladen und taktische Bewegung, bevor der Druck steigt."
+        },
+        {
+          "number": "2",
+          "title": "Steuerung und Bewegung",
+          "description": "Finde jede aufgeführte Tastenbelegung für Schießen, Zielen, Nachladen, Sprinten, Ducken, Lehnen, Feuermodus und Waffenwechsel."
+        },
+        {
+          "number": "3",
+          "title": "Geldmultiplikatoren",
+          "description": "Spiele mit Freunden für Bonusgeld und tritt der IBA Community Roblox-Gruppe bei, um einen zusätzlichen Geldmultiplikator zu erhalten, der im offiziellen Eintrag genannt wird."
+        },
+        {
+          "number": "4",
+          "title": "Kampfgrundlagen",
+          "description": "Baue eine Routine rund um Zielen, Feuermodus-Kontrolle, Nachladdisziplin und Ausrüstungseinsatz während intensiver Hausverteidigungsrunden auf."
+        }
+      ]
+    },
+    "popular": {
+      "eyebrow": "Beliebte Seiten",
+      "title": "Gerade im Trend",
+      "quickLinks": [
+        "Anfängersteuerung",
+        "Waffenhandhabung",
+        "Geldmultiplikatoren",
+        "Code-Status"
+      ],
+      "cards": [
+        {
+          "badge": "Anfänger",
+          "title": "Anfängerleitfaden",
+          "description": "Beginne mit der aufgeführten PC-, Konsolen- und Mobilsteuerung und übe dann Zielen, Nachladen und taktische Bewegung.",
+          "href": "/guide/realistic-home-defense-beginner-guide"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Steuerungsreferenz",
+          "description": "Jede offizielle PC- und Konsolenbelegung für Schießen, Zielen, Nachladen, Feuermodus, Sprinten, Ducken, Lehnen und Interagieren.",
+          "href": "/controls/realistic-home-defense-controls"
+        },
+        {
+          "badge": "Beliebt",
+          "title": "Geldmultiplikatoren",
+          "description": "Der Freundesbonus und der Roblox-Gruppenmultiplikator, die im offiziellen Spieleintrag bestätigt werden.",
+          "href": "/mechanics/realistic-home-defense-money-multipliers"
+        },
+        {
+          "badge": "Aktualisiert",
+          "title": "Code-Status",
+          "description": "Was der offizielle Eintrag über einlösbare Codes und Bonusgeld ohne Code bestätigt.",
+          "href": "/codes/realistic-home-defense-codes"
+        }
+      ]
+    },
+    "aboutGame": {
+      "title": "Was ist REALISTIC HOME DEFENSE?",
+      "paragraphs": [
+        "REALISTIC HOME DEFENSE ist ein taktischer Ego-Shooter auf Roblox von IBA Community. Die offizielle Beschreibung konzentriert sich auf realistische Waffenmechaniken, taktische Bewegung und intensive Hausverteidigungsaction, mit einer Serverkapazität von 16 Spielern.",
+        "Spieler zielen, schießen, laden nach, wechseln den Feuermodus, sprinten, ducken sich oder legen sich hin, lehnen sich und interagieren mit den aufgeführten PC- oder Konsolenbelegungen; auf Mobilgeräten werden bearbeitbare Bildschirmtasten verwendet. Der Eintrag bestätigt außerdem Bonusgeld für das Spielen mit Freunden und einen zusätzlichen Geldmultiplikator für den Beitritt zur Entwicklergruppe."
+      ],
+      "stats": [
+        {
+          "label": "Entwickler",
+          "value": "IBA Community"
+        },
+        {
+          "label": "Plattform",
+          "value": "Roblox"
+        },
+        {
+          "label": "Genre",
+          "value": "Taktik-FPS"
+        },
+        {
+          "label": "Besuche",
+          "value": "2.8M+"
+        },
+        {
+          "label": "Favoriten",
+          "value": "29K+"
+        },
+        {
+          "label": "Max. Spieler",
+          "value": "16"
+        },
+        {
+          "label": "Veröffentlicht",
+          "value": "8. Okt. 2026"
+        }
+      ],
+      "cta": "Alle Leitfäden erkunden"
+    },
+    "explore": {
+      "title": "REALISTIC HOME DEFENSE Wiki erkunden",
+      "description": "Nutze diese acht Module, um Steuerung, Waffengrundlagen, Geldboni, Ausrüstung und taktische Gewohnheiten zu lernen, die in REALISTIC HOME DEFENSE zählen.",
+      "modules": [
+        {
+          "order": 1,
+          "name": "REALISTIC HOME DEFENSE Anfängerleitfaden",
+          "description": "Lerne die grundlegenden Gameplay-Eingaben, die Spielweise in einer Partie, Bewegung, Zielen und Überlebensgrundlagen. Beginne mit den offiziellen Belegungen und baue dann eine wiederholbare Routine für Hausverteidigungsrunden auf.",
+          "href": "/guide/realistic-home-defense-beginner-guide",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Beginne mit Schießen, Zielen und Nachladen, damit die grundlegenden Eingaben vor einem Kampf vertraut sind."
+            },
+            {
+              "label": "2",
+              "detail": "Übe Sprinten, Ducken oder Hinlegen und Lehnen, um dich mit den aufgeführten taktischen Steuerungen zu bewegen."
+            },
+            {
+              "label": "3",
+              "detail": "Nutze die offiziellen Belegungen, um Waffen zu wechseln und den Feuermodus zu ändern, ohne nach Tasten suchen zu müssen."
+            },
+            {
+              "label": "4",
+              "detail": "Spiele mit Freunden und tritt der Roblox-Gruppe bei, um die bestätigten Geldboni zu verfolgen."
+            }
+          ]
+        },
+        {
+          "order": 2,
+          "name": "REALISTIC HOME DEFENSE Steuerungsleitfaden",
+          "description": "Nutze diese vollständige Referenz für die Tastatur- und Mausbelegungen, Konsolentasten und die Mobilsteuerung, die in der offiziellen Spielbeschreibung aufgeführt sind.",
+          "href": "/controls/realistic-home-defense-controls",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Schießen",
+              "detail": "Linke Maustaste auf PC oder RT auf der Konsole."
+            },
+            {
+              "label": "Zielen",
+              "detail": "Rechtsklick auf PC oder LT auf der Konsole."
+            },
+            {
+              "label": "Nachladen",
+              "detail": "R auf PC oder X auf der Konsole."
+            },
+            {
+              "label": "Feuermodus",
+              "detail": "V auf PC oder RB auf der Konsole."
+            },
+            {
+              "label": "Sprinten",
+              "detail": "Shift auf PC oder L3 auf der Konsole."
+            },
+            {
+              "label": "Lehnen",
+              "detail": "Q oder E auf PC oder das Steuerkreuz auf der Konsole."
+            }
+          ]
+        },
+        {
+          "order": 3,
+          "name": "REALISTIC HOME DEFENSE Waffenleitfaden",
+          "description": "Verstehe die Waffensteuerung und Handhabungseingaben, die im offiziellen Spieleintrag bestätigt werden, und wende sie dann während Hausverteidigungsrunden auf Zielen, Feuermoduswechsel, Nachladen und Waffenwechsel an.",
+          "href": "/controls/realistic-home-defense-controls",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zielen",
+              "detail": "Nutze den Rechtsklick auf PC oder LT auf der Konsole, um zu zielen, bevor du einen Schuss abgibst."
+            },
+            {
+              "label": "Feuermodus",
+              "detail": "Wechsle mit V auf PC oder RB auf der Konsole zwischen den verfügbaren Feuermodi."
+            },
+            {
+              "label": "Nachladen",
+              "detail": "Drücke R auf PC oder X auf der Konsole zum Nachladen; X auf der Konsole ist auch für Interagieren aufgeführt."
+            },
+            {
+              "label": "Wechseln",
+              "detail": "Nutze 1-9 auf PC oder Y und LB auf der Konsole, um Waffen zu wechseln."
+            }
+          ]
+        },
+        {
+          "order": 4,
+          "name": "REALISTIC HOME DEFENSE Codes",
+          "description": "Prüfe, was der offizielle Spieleintrag über Codes bestätigt, wo du auf Änderungen achten kannst und welche Bonusgeld-Optionen keinen Einlösecode erfordern.",
+          "href": "/codes/realistic-home-defense-codes",
+          "displayType": "code-cards",
+          "highlights": [
+            {
+              "label": "Status",
+              "detail": "In der offiziellen Beschreibung sind mit Stand vom 29. Oktober 2026 keine einlösbaren Codes aufgeführt."
+            },
+            {
+              "label": "Prüfen",
+              "detail": "Prüfe die offizielle Roblox-Spielbeschreibung und die verlinkten Social-Media-Kanäle auf zukünftige Ankündigungen."
+            },
+            {
+              "label": "Einlösen",
+              "detail": "Die offizielle Beschreibung dokumentiert weder eine Einlösemethode noch einen Code-Eingabebildschirm."
+            },
+            {
+              "label": "Kein Code",
+              "detail": "Das Spielen mit Freunden und der Beitritt zur Roblox-Gruppe sind bestätigte Bonusgeld-Optionen ohne Code."
+            }
+          ]
+        },
+        {
+          "order": 5,
+          "name": "REALISTIC HOME DEFENSE Geldleitfaden",
+          "description": "Erkläre die bestätigten Wege, in REALISTIC HOME DEFENSE Bonusgeld zu verdienen, und trenne die offiziellen Multiplikatoren von Details, die der Spieleintrag nicht liefert.",
+          "href": "/mechanics/realistic-home-defense-money-multipliers",
+          "displayType": "step-by-step",
+          "highlights": [
+            {
+              "label": "1",
+              "detail": "Spiele mit Freunden: Die offizielle Beschreibung besagt, dass gemeinsames Spielen Bonusgeld gewährt."
+            },
+            {
+              "label": "2",
+              "detail": "Tritt der IBA Community Roblox-Gruppe bei, um den zusätzlichen Geldmultiplikator zu verfolgen, der im Eintrag genannt wird."
+            },
+            {
+              "label": "3",
+              "detail": "Prüfe den aktuellen Spieleintrag, bevor du dich auf einen der Boni verlässt; der offizielle Text nennt keine Raten."
+            },
+            {
+              "label": "4",
+              "detail": "Die offizielle Beschreibung enthält keine Prozentwerte, Stapelregeln oder eine erforderliche Freundeszahl."
+            }
+          ]
+        },
+        {
+          "order": 6,
+          "name": "REALISTIC HOME DEFENSE Ausrüstungsleitfaden",
+          "description": "Überprüfe die ausrüstungsbezogenen Eingaben und taktischen Optionen, die der offizielle Eintrag tatsächlich bestätigt, einschließlich Waffenhandhabung, Bewegung, Interaktion und Anordnung der Mobil-Schaltflächen.",
+          "href": "/guide/realistic-home-defense-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Waffen",
+              "detail": "Wechsle mit den aufgeführten Zahlentasten oder Konsolentasten zwischen ausgerüsteten Waffen."
+            },
+            {
+              "label": "Bewegung",
+              "detail": "Sprinten, Ducken oder Hinlegen und Lehnen, um taktische Bewegung zu meistern."
+            },
+            {
+              "label": "Interagieren",
+              "detail": "Nutze G auf PC oder X auf der Konsole, wenn eine Interaktionsaufforderung erscheint."
+            },
+            {
+              "label": "Mobil",
+              "detail": "Nutze die Bildschirmtasten und bearbeite ihre Anordnung in den Einstellungen."
+            }
+          ]
+        },
+        {
+          "order": 7,
+          "name": "REALISTIC HOME DEFENSE Tipps und Strategien",
+          "description": "Sammle praktische Ratschläge zu Zielen, Bewegung, Positionierung, Ausrüstungseinsatz und dem Spielen mit Freunden, basierend auf der für REALISTIC HOME DEFENSE bestätigten Steuerung und den Systemen.",
+          "href": "/guide/realistic-home-defense-beginner-guide",
+          "displayType": "card-list",
+          "highlights": [
+            {
+              "label": "Zielen",
+              "detail": "Richte den Schuss vor dem Abfeuern aus und nutze die aufgeführte Zieleingabe, wenn du einen Raum betrittst."
+            },
+            {
+              "label": "Deckung",
+              "detail": "Lehne dich und ducke dich oder lege dich hin, um deine Angriffsfläche zu verringern, während du einen Verteidigungswinkel hältst."
+            },
+            {
+              "label": "Nachladen",
+              "detail": "Lade in ruhigen Momenten nach; R auf PC oder X auf der Konsole hält die Aktion an eine Eingabe gebunden."
+            },
+            {
+              "label": "Teamarbeit",
+              "detail": "Koordiniere dich mit Freunden und nutze den Freundesbonus als Anreiz, gemeinsam zu spielen."
+            }
+          ]
+        },
+        {
+          "order": 8,
+          "name": "REALISTIC HOME DEFENSE Tier-Liste",
+          "description": "Ordne die grundlegenden Waffen- und Bewegungsfertigkeiten danach ein, wie direkt die offiziellen Spielinformationen sie stützen, von essenzieller Steuerung bis zu optionalen Anpassungen.",
+          "href": "/controls/realistic-home-defense-controls",
+          "displayType": "tier-grid",
+          "highlights": [
+            {
+              "label": "S",
+              "detail": "Zielen und Nachladen: die klarsten offensiven Eingaben, die im offiziellen Eintrag genannt werden."
+            },
+            {
+              "label": "A",
+              "detail": "Feuermodus- und Waffenwechsel: nützlich, sobald die grundlegende Schussabfolge sitzt."
+            },
+            {
+              "label": "B",
+              "detail": "Taktische Bewegung: Sprinten, Ducken oder Hinlegen und Lehnen unterstützen die defensive Positionierung."
+            },
+            {
+              "label": "C",
+              "detail": "Feinabstimmung der Mobil-Anordnung: bearbeitbare Bildschirmtasten helfen, aber der Eintrag gibt keine feste Anordnung vor."
+            }
+          ]
+        }
+      ]
+    },
+    "faq": {
+      "title": "REALISTIC HOME DEFENSE FAQ",
+      "description": "Schnelle Antworten auf die häufigsten Fragen zu REALISTIC HOME DEFENSE Steuerung, Geldboni, Codes, Ausrüstung und Mobilspiel.",
+      "items": [
+        {
+          "question": "Was ist REALISTIC HOME DEFENSE?",
+          "answer": "REALISTIC HOME DEFENSE ist ein taktischer Ego-Shooter aus der Ich-Perspektive auf Roblox von IBA Community. Der offizielle Eintrag hebt realistische Waffenmechaniken, taktische Bewegung und Hausverteidigungsaction hervor, wobei Server auf 16 Spieler begrenzt sind."
+        },
+        {
+          "question": "Welche Steuerung verwendet REALISTIC HOME DEFENSE auf PC und Konsole?",
+          "answer": "Schießen ist Linksklick oder RT, Zielen ist Rechtsklick oder LT, Nachladen ist R oder X, Feuermodus ist V oder RB, Sprinten ist Shift oder L3, Ducken oder Hinlegen ist C oder B, Lehnen ist Q oder E oder das Steuerkreuz, Waffenwechsel ist 1-9 oder Y und LB, und Interagieren ist G oder X."
+        },
+        {
+          "question": "Wie funktionieren Geldmultiplikatoren in REALISTIC HOME DEFENSE?",
+          "answer": "Die offizielle Beschreibung besagt, dass das Spielen mit Freunden Bonusgeld gewährt und der Beitritt zur Roblox-Gruppe des Spiels einen zusätzlichen Geldmultiplikator bietet. Sie nennt weder den Prozentsatz noch Stapelregeln oder eine erforderliche Freundeszahl."
+        },
+        {
+          "question": "Gibt es funktionierende REALISTIC HOME DEFENSE Codes?",
+          "answer": "Die offizielle Spielbeschreibung listet mit Stand vom 29. Oktober 2026 keine einlösbaren Codes auf. Prüfe den offiziellen Roblox-Eintrag auf zukünftige Ankündigungen und dokumentierte Einlöseschritte."
+        },
+        {
+          "question": "Können Mobilspieler die Steuerung in REALISTIC HOME DEFENSE anpassen?",
+          "answer": "Ja. REALISTIC HOME DEFENSE verwendet auf Mobilgeräten Bildschirmtasten, und laut offizieller Beschreibung kann ihre Anordnung in den Einstellungen bearbeitet werden."
+        },
+        {
+          "question": "Was sollten Anfänger in REALISTIC HOME DEFENSE zuerst üben?",
+          "answer": "Übe zuerst Schießen, Zielen und Nachladen und ergänze dann Sprinten, Ducken oder Hinlegen, Lehnen, Feuermoduswechsel und Waffenwechsel. Das Spielen mit Freunden trägt ebenfalls zum bestätigten Bonusgeld bei."
+        }
+      ]
+    },
+    "finalCta": {
+      "title": "Bereit, dein Zuhause zu verteidigen?",
+      "description": "Meistere realistische Waffen, taktische Bewegung und Raum-für-Raum-Verteidigung mit praktischen Roblox-Leitfäden, die für jede Runde gemacht sind.",
+      "primary": "Lies den Anfängerleitfaden",
+      "secondary": "Auf Roblox spielen"
+    }
+  },
+  "guide": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Anfängerleitfäden",
+    "overviewDescription": "Beginne mit der REALISTIC HOME DEFENSE Steuerung, Bewegungsgrundlagen und praktischen ersten Schritten für Roblox-Hausverteidigungsrunden."
+  },
+  "controls": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Steuerung",
+    "overviewDescription": "Finde jede aufgeführte PC-, Konsolen- und Mobil-Eingabe für Zielen, Schießen, Nachladen, Bewegung und Waffenhandhabung."
+  },
+  "mechanics": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Mechaniken",
+    "overviewDescription": "Lerne die bestätigten Geldmultiplikatoren, Freundes- und Gruppenboni sowie die grundlegenden Gameplay-Systeme kennen, die für REALISTIC HOME DEFENSE dokumentiert sind."
+  },
+  "codes": {
+    "overviewTitle": "REALISTIC HOME DEFENSE Codes",
+    "overviewDescription": "Prüfe den aktuellen REALISTIC HOME DEFENSE Code-Status, wo du auf Ankündigungen achten kannst und welche bestätigten Bonusgeld-Optionen es gibt."
+  },
+  "shared": {
+    "wikiNavigation": "Wiki-Navigation",
+    "activeCodes": "Aktive Codes",
+    "updated": "Aktualisiert",
+    "viewAllCodes": "Alle Codes anzeigen",
+    "playOnRoblox": "Auf Roblox spielen",
+    "inThisSection": "In diesem Abschnitt",
+    "tableOfContents": "Inhaltsverzeichnis",
+    "nextSteps": "Nächste Schritte",
+    "needHelp": "Brauchst du Hilfe?",
+    "relatedReading": "Verwandte Artikel",
+    "relatedGuides": "Verwandte Leitfäden",
+    "readMore": "Mehr lesen",
+    "officialMedia": "Offizielle Medien",
+    "home": "Startseite",
+    "noGuidesAvailable": "Noch keine Leitfäden verfügbar. Schau bald wieder vorbei!"
+  },
+  "footer": {
+    "aboutTitle": "REALISTIC HOME DEFENSE Wiki",
+    "about": "REALISTIC HOME DEFENSE Wiki ist ein unabhängiges, von Fans erstelltes Leitfadenportal zu Roblox-Steuerung, Waffen, Ausrüstung, taktischer Bewegung, Geldtipps und Raum-für-Raum-Hausverteidigungsstrategien.",
+    "quickLinks": "Schnelllinks",
+    "guides": "Leitfäden",
+    "legal": "Rechtliches",
+    "copyright": "2026 REALISTIC HOME DEFENSE Wiki. Nicht mit IBA Community oder Roblox verbunden.",
+    "description": "Ein taktischer Roblox-FPS mit Fokus auf realistische Waffen, taktische Bewegung und Hausverteidigungs-Schusswechsel.",
+    "playGame": "Spiele REALISTIC HOME DEFENSE auf Roblox",
+    "officialDiscord": "Offizieller Discord (Link wird noch verifiziert)",
+    "officialYoutube": "Offizielles YouTube (Link wird noch verifiziert)",
+    "vvBuilder": "Waffen- und Steuerungsleitfaden",
+    "beginnerGuide": "Anfängerleitfaden",
+    "raceGuides": "Steuerung und Bewegung",
+    "bossGuides": "Geld und Multiplikatoren",
+    "buildGuide": "Codes und Belohnungen",
+    "privacyPolicy": "Datenschutzerklärung",
+    "termsOfService": "Nutzungsbedingungen"
+  }
+}
